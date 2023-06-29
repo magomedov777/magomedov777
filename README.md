@@ -5,7 +5,7 @@
   <hr/>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magomedov777&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  [![codewars](https://www.codewars.com/users/JSdev777/badges/small)](https://www.codewars.com/users/username) 
+  [![codewars](https://www.codewars.com/users/JSdev777/badges/small)](https://www.codewars.com/users/JSdev777) 
 
 
   
