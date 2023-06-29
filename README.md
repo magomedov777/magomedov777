@@ -1,8 +1,9 @@
 Hello there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arkadii Mahomedov
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
-  I'm a software engineer <strong>React/Redux TypeScript</strong>.
-  <hr/>
+  <!-- I'm a software engineer <strong>React/Redux TypeScript</strong>.
+  <hr/> -->
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+software+engineer+React/Redux+Typescript)](https://git.io/typing-svg)
   
 <h3>Contact me:</h3>
   
