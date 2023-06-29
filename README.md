@@ -3,8 +3,6 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
                                   <b>I'm a Software Engineer <strong>React/TypeScript</strong>.<b>
   <hr/>
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=35&duration=4000&pause=500&color=2F81F7&background=FF000000&left=true&vCenter=true&width=635&height=70&lines=const+exp+'=+()+'=>+return+arr+.+map+el+=>el+.+id+===+newId)](https://git.io/typing-svg)
-<hr>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magomedov777&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
   [![codewars](https://www.codewars.com/users/JSdev777/badges/small)](https://www.codewars.com/users/JSdev777) 
