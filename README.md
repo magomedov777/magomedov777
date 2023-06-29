@@ -4,7 +4,7 @@
                                   <b>I'm a Software Engineer <strong>React/TypeScript</strong>.<b>
   <hr/>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magomedov777&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magomedov777&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
   [![codewars](https://www.codewars.com/users/JSdev777/badges/small)](https://www.codewars.com/users/JSdev777) 
 
 
