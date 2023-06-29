@@ -3,6 +3,8 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
                                   <b>I'm a Software Engineer <strong>React/TypeScript</strong>.<b>
   <hr/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
   
   
 <h3>Contact me:</h3>
